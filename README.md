@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jin9551/CodeTest/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jin9551/CodeTest/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/jin9551/CodeTest/tree/master/0035-search-insert-position) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 ## Hash Table
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jin9551/CodeTest/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/jin9551/CodeTest/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
