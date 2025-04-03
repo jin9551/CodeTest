@@ -13,28 +13,60 @@ class Solution {
 
         // 박스가 Bulky만 만족하면 Bulky
         // 박스가 Heavy만 만족하면 Heavy
-        boolean Bulky = false;
-        boolean Heavy = false;
-
-        long volume = (long)length * (long)width * (long)height;
-        System.out.println(volume);
-        if(length >= 10000 || width>= 10000 || height>= 10000 || volume >= 1000000000 ){
-            Bulky = true;
-        } 
-
-        if(mass >= 100){
-            Heavy = true;
-        }
-
-        if(Bulky && Heavy){
+        if(isBulky(length,width,height) && mass >= 100){
             return "Both";
-        } else if (Bulky && !Heavy){
+        } else if(isBulky(length,width,height) && mass < 100){
             return "Bulky";
-        } else if(Heavy && !Bulky) {
+        } else if(!isBulky(length,width,height) && mass >= 100){
             return "Heavy";
         } else {
             return "Neither";
         }
 
+
+
+        }
+        
+        public static boolean isBulky(int l, int w, int h){
+            long volume = (long)l * (long)w * (long)h;
+
+            if(Math.max(l,Math.max(w,h))>= 10_000){
+                return true;
+            }
+            if(volume >= 1_000_000_000) {
+                return true;
+            }
+
+            return false;
+        }
+
     }
-}
+
+  
+
+
+        // 첫번째 풀이
+        // boolean Bulky = false;
+        // boolean Heavy = false;
+
+        // long volume = (long)length * (long)width * (long)height;
+        // System.out.println(volume);
+        // if(length >= 10000 || width>= 10000 || height>= 10000 || volume >= 1000000000 ){
+        //     Bulky = true;
+        // } 
+
+        // if(mass >= 100){
+        //     Heavy = true;
+        // }
+
+        // if(Bulky && Heavy){
+        //     return "Both";
+        // } else if (Bulky && !Heavy){
+        //     return "Bulky";
+        // } else if(Heavy && !Bulky) {
+        //     return "Heavy";
+        // } else {
+        //     return "Neither";
+        // }
+
+
