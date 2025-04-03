@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jin9551/CodeTest/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/jin9551/CodeTest/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jin9551/CodeTest/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/jin9551/CodeTest/tree/master/0013-roman-to-integer) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 | [2619-categorize-box-according-to-criteria](https://github.com/jin9551/CodeTest/tree/master/2619-categorize-box-according-to-criteria) |
 ## Probability and Statistics
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jin9551/CodeTest/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jin9551/CodeTest/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
