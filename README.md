@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/jin9551/CodeTest/tree/master/0009-palindrome-number) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 | [2619-categorize-box-according-to-criteria](https://github.com/jin9551/CodeTest/tree/master/2619-categorize-box-according-to-criteria) |
 ## Probability and Statistics
