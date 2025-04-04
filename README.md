@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jin9551/CodeTest/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jin9551/CodeTest/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jin9551/CodeTest/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/jin9551/CodeTest/tree/master/0069-sqrtx) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 | [2619-categorize-box-according-to-criteria](https://github.com/jin9551/CodeTest/tree/master/2619-categorize-box-according-to-criteria) |
 ## Probability and Statistics
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jin9551/CodeTest/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/jin9551/CodeTest/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/jin9551/CodeTest/tree/master/0792-binary-search) |
 ## String
 |  |
