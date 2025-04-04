@@ -7,15 +7,14 @@ class Solution {
         } else if(x%10==0){
             return false;
         }
-        int comp = x;
         long reverse =0;
 
-        while(comp!=0){
-            reverse = reverse * 10 + comp%10;
-            comp/=10;
+        while(x>reverse){
+            reverse = reverse * 10 + x%10;
+            x/=10;
         }
 
-        return x==reverse;
+        return (x==reverse) || (x==reverse/10);
     }
 
 
