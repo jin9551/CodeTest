@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jin9551/CodeTest/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jin9551/CodeTest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jin9551/CodeTest/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/jin9551/CodeTest/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/jin9551/CodeTest/tree/master/0792-binary-search) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jin9551/CodeTest/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jin9551/CodeTest/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/jin9551/CodeTest/tree/master/0066-plus-one) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 | [2619-categorize-box-according-to-criteria](https://github.com/jin9551/CodeTest/tree/master/2619-categorize-box-according-to-criteria) |
 ## Probability and Statistics
