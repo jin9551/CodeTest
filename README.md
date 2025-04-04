@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jin9551/CodeTest/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jin9551/CodeTest/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jin9551/CodeTest/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jin9551/CodeTest/tree/master/0067-add-binary) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 | [2619-categorize-box-according-to-criteria](https://github.com/jin9551/CodeTest/tree/master/2619-categorize-box-according-to-criteria) |
 ## Probability and Statistics
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jin9551/CodeTest/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jin9551/CodeTest/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/jin9551/CodeTest/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jin9551/CodeTest/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jin9551/CodeTest/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jin9551/CodeTest/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jin9551/CodeTest/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
