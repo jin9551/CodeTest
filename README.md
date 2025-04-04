@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jin9551/CodeTest/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jin9551/CodeTest/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jin9551/CodeTest/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jin9551/CodeTest/tree/master/0070-climbing-stairs) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 | [2619-categorize-box-according-to-criteria](https://github.com/jin9551/CodeTest/tree/master/2619-categorize-box-according-to-criteria) |
 ## Probability and Statistics
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jin9551/CodeTest/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jin9551/CodeTest/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jin9551/CodeTest/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
