@@ -74,14 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jin9551/CodeTest/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jin9551/CodeTest/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jin9551/CodeTest/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jin9551/CodeTest/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jin9551/CodeTest/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jin9551/CodeTest/tree/master/0100-same-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jin9551/CodeTest/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jin9551/CodeTest/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
