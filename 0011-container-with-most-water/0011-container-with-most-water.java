@@ -1,18 +1,18 @@
 class Solution {
     public int maxArea(int[] height) {
-        System.out.println(Arrays.toString(height));
         int n = height.length;
 
         int maxV = 0;
         int start = 0;
         int end = n-1;
-
+        int temp = 0;
 
         while(start<end){
-            int temp = Math.min(height[start],height[end]) * (end-start);
-            if(height[start]>height[end]){    
+            if(height[start]>height[end]){  
+                temp =   height[end] * (end-start);
                 end--;
             } else {
+                temp = height[start] * (end-start);
                 start++;
             }
             maxV=Math.max(temp,maxV);
