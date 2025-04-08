@@ -9,17 +9,13 @@ class Solution {
 
 
         while(start<end){
-            int temp =0;
-            if(height[start]>height[end]){
-                temp = height[end] * Math.abs(start-end);
+            int temp = Math.min(height[start],height[end]) * (end-start);
+            if(height[start]>height[end]){    
                 end--;
             } else {
-                temp = height[start] * Math.abs(start-end);
                 start++;
             }
-            if(temp > maxV){
-                maxV = temp;
-            }
+            maxV=Math.max(temp,maxV);
         }
 
         // for(int i=0; i<n;i++){
