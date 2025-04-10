@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jin9551/CodeTest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jin9551/CodeTest/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jin9551/CodeTest/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jin9551/CodeTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jin9551/CodeTest/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -96,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jin9551/CodeTest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jin9551/CodeTest/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jin9551/CodeTest/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jin9551/CodeTest/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jin9551/CodeTest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jin9551/CodeTest/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jin9551/CodeTest/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jin9551/CodeTest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jin9551/CodeTest/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jin9551/CodeTest/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jin9551/CodeTest/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jin9551/CodeTest/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Greedy
 |  |
 | ------- |
