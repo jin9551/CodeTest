@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jin9551/CodeTest/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jin9551/CodeTest/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jin9551/CodeTest/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/jin9551/CodeTest/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/jin9551/CodeTest/tree/master/0792-binary-search) |
 | [1183-statistics-from-a-large-sample](https://github.com/jin9551/CodeTest/tree/master/1183-statistics-from-a-large-sample) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jin9551/CodeTest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jin9551/CodeTest/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jin9551/CodeTest/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/jin9551/CodeTest/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/jin9551/CodeTest/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jin9551/CodeTest/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/jin9551/CodeTest/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jin9551/CodeTest/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jin9551/CodeTest/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jin9551/CodeTest/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/jin9551/CodeTest/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jin9551/CodeTest/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jin9551/CodeTest/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
